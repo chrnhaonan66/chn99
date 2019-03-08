@@ -1,0 +1,412 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+/*头部*/
+.head{
+	width: 100%;
+	height: 610px;
+	background-color:#7C7D81 
+}
+.head .nav img{
+	margin: 60px;
+	float: left;
+}
+.head .navright{
+	width: 700px;
+	height: 60px;
+	float: right;
+	margin: 60px;
+}
+.head .navright .rightone ul{
+	margin-left: 520px;
+	float: left;
+}
+.head .navright .rightone li{
+	float: left;
+	font-size: 15px;
+	padding-left: 20px;
+	color:white;
+}
+.head .navright .righttwo ul{
+	margin-left: 20px;
+	float: left;
+}
+.head .navright .righttwo li{
+	float: left;
+	font-size: 20px;
+	padding-left: 20px;
+	color:white;
+	font-weight: bold;
+	line-height: 35px;
+}
+.head .zhongbuone{
+	width: 100%;
+	height: 150px;
+	float: left;
+}
+.head .zhongbuone ul{
+	text-align: center;
+}
+.head .zhongbuone .zblione{
+	font-weight: bolder;
+	font-size: 70px;
+	color: white;
+}
+.head .zhongbuone .zblitwo{
+	font-size: 25px;
+	color: white;
+}
+.head .zhongbutwo{
+	width: 100%;
+	height: 180px;
+	float: left;
+}
+.head .zhongbutwo .twoup{
+	width: 400px;
+	height: 20px;
+	float: left;
+	margin-left: 350px;
+}
+.head .zhongbutwo .twoup li{
+	float: left;
+	padding-right: 20px;
+	font-size: 15px;
+	color: white;
+}
+.head .zhongbutwo .twodown{
+	width: 100%;
+	height: 80px;
+	float: left;
+}
+.head .zhongbutwo .twodown .inputone{
+	width: 680px;
+	height: 50px;
+	float: left;
+	margin-left: 350px;
+	margin-top: 10px;
+}
+.head .zhongbutwo .twodown .inputtwo{
+	width: 120px;
+	height: 52px;
+	background-color: #008000;
+	font-size: 20px;
+	margin-top: 10px;
+	float: left;
+	color: white;
+	border: 0px solid #008000;
+}
+.head .dibu{
+	width: 100%;
+	height: 80px;
+	float: left;
+}
+.head .dibu ul{
+	margin-left: 60px;
+	margin-top: 20px;
+}
+.head .dibu li{
+	float: left;
+	padding-right: 15px;
+	line-height: 40px;
+	color: white;
+}
+/*第二部分*/
+.wytwo{
+	width: 100%;
+	height: 290px;
+	background-color: #FFFFFF;
+	float: left;
+}
+.wytone,.wyttwo,.wytthree{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 240px;
+	margin-top: 40px;
+	text-align: center;
+}
+.wytone .wytli,.wyttwo .wytli,.wytthree .wytli{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+.wytone,.wyttwo,.wytthree li{
+	color: #B0B3B4;
+	font-size: 12px;
+	line-height: 20px;
+}
+/*第三部分*/
+.wythree{
+	width: 100%;
+	height: 650px;
+	background-color: #EDF2EC;
+	float: left;
+}
+.wythree .tup{
+	width: 400px;
+	height: 160px;
+	margin-top: 130px;
+	margin-left: 80px;
+}
+.wythree .tup .tulione{
+	font-size: 50px;
+}
+.wythree .tup .tulitwo{
+	font-size: 90px;
+	font-weight: bolder;
+}
+.wythree .tzj{
+	width: 550px;
+	height: 100px;
+	margin-top: 40px;
+	margin-left: 80px;
+}
+.wythree .tzj li{
+	font-size: 16px;
+	line-height: 25px;
+}
+.wythree .tdown{
+	width: 400px;
+	height: 140px;
+	margin-top: 40px;
+	margin-left: 80px;
+}
+.wythree .tdown .tdleft{
+	width: 150px;
+	height: 100px;
+	float: left;
+}
+.wythree .tdown .tdright{
+	width: 150px;
+	height: 100px;
+	float: left;
+}
+.wythree .tdown .tdright img{
+	width: 90px;
+	height: 90px;
+}
+/*第四部分*/
+.wyfour{
+	width: 100%;
+	height: 500px;
+	background-color: #FFFFFF;
+	float: left;
+}
+.wyfoup{
+	width: 100%;
+	height: 100px;
+}
+.wyfoup ul{
+	margin-left: 120px;
+	margin-top: 40px;
+}
+.wyfoup .wyfoupl{
+	font-size: 40px;
+}
+.wyfoup .wyfoupi{
+	font-size: 20px;
+	line-height: 30px;
+}
+.wyfoone{
+	width: 280px;
+	height: 300px;
+	float: left;
+	margin-left: 120px;
+	margin-top: 20px;
+}
+.wyfotwo,.wyfothree,.wyfofour{
+	width: 280px;
+	height: 300px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.wyfoli{
+	font-weight: bold;
+	font-size: 20px;
+	color: #101D37;
+}
+.wyfol{
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 20px;
+	color: #101D37;
+}
+.wyfo{
+	font-size: 12px;
+	line-height: 20px;
+	color: #D7B599;
+}
+.wyfoi{
+	float: right;
+	color: red;
+	font-size: 20px;
+}
+/*第五部分*/
+.wyfive{
+	width: 100%;
+	height: 500px;
+	background-color: #EEEEF1;
+	float: left;
+}
+.wyfup{
+	width: 100%;
+	height: 100px;
+}
+.wyfup ul{
+	margin-left: 120px;
+	margin-top: 40px;
+}
+.wyfup .wyfupl{
+	font-size: 40px;
+}
+.wyfup .wyfupi{
+	font-size: 20px;
+	line-height: 30px;
+}
+.wyfup .wyfupli{
+	float: right;
+	margin-right: 80px;
+}
+.wyfone,.wyftwo,.wyfthree{
+	width: 350px;
+	height: 260px;
+	float: left;
+	margin-left: 120px;
+	margin-top: 30px;
+	background-color: white;
+}
+.wyfone img,.wyftwo img,.wyfthree img{
+	width: 350px;
+	height: 260px;
+}
+.wyfli{
+	color: white;
+	font-size: 30px;
+	font-weight: bolder;
+	margin: 10px;
+	text-align: center;
+	margin-top: -160px;
+}
+.wyfl{
+	color: black;
+	font-size: 25px;
+	font-weight: bolder;
+	margin: 10px;
+	color: #FFF2AB;	
+	line-height: 10px;
+	text-align: center;
+}
+/*第六部分*/
+.wysix{
+	width: 100%;
+	height: 280px;
+	background-color: #03A967;
+	float: left;
+}
+.wysixleft{
+	width: 50%;
+	height: 300px;
+	float: left;
+}
+.wysixleft .wyslli{
+	margin-top: 100px;
+	font-weight: bolder;
+}
+.wysixleft li{
+	font-size: 60px;
+	margin-left: 100px;
+	margin-top: 60px;
+	line-height: 10px;
+	color: white;
+}
+.wysixright{
+	width: 50%;
+	height: 300px;
+	float: left;
+	font-size: 20px;
+}
+.wysixright .wysrone{
+	margin-top: 80px;
+	margin-left: 100px;
+	color: #FFFFFF;
+}
+.wysixright .wysrtwo{
+	margin-left: 100px;
+	margin-top: 10px;
+}
+.wysixright .wysrthree{
+	margin-left: 100px;
+	width: 600px;
+	height: 50px;
+	margin-top: 22px;
+	font-size: 18px
+}
+.wyseven{
+	width: 100%;
+	height: 360px;
+	background-color: #000000;
+	float: left;
+}
+.wyseven .sevenone{
+	width: 100%;
+	height: 80px;
+}
+hr{
+	margin-left: 110px;
+	width: 1340px;
+}
+.wyseven .sevenone .solefto{
+	margin-left: 110px;
+	float: left;
+	margin-top: 30px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.wyseven .sevenone .soleft{
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.wyseven .sevenone .soright{
+	float: right;
+	margin-top: 30px;
+	margin-right: 50px;
+	color: #03A967;
+	font-weight: bold;
+}
+.wyseven .seventwo{
+	width: 100%;
+	height: 90px;
+}
+.wyseven .seventwo ul{
+	width: 100%;
+	height: 20px;
+	float: left;
+	margin-left: 110px;
+}
+.wyseven .seventwo li{
+	float: left;
+	font-size: 12px;
+	line-height: 30px;
+	color: #887F72;
+}
+.wyseven .seventhree{
+	width: 1000px;
+	height: 100px;
+}
+.wyseven .seventhree ul{
+	width: 100%;
+	height: 20px;
+	float: left;
+	margin-left: 110px;
+}
+.wyseven .seventhree li{
+	float: left;
+	line-height: 30px;
+	color: #887F72;
+}
